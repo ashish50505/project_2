@@ -59,7 +59,7 @@ const ContactForm = () => {
                 </form>
             </div>
             <div className={styles.contact_image}>
-                <img src="/images/contact.png" alt="contact" />
+                <img src="/images/contact.png" alt="Customer support illustration" />
             </div>
         </section>
     );
